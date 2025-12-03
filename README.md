@@ -1,0 +1,2 @@
+# MappingGeneratorProVS2019.vsix
+MappingGeneratorProVS2019.vsix
